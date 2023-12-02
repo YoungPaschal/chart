@@ -1,0 +1,168 @@
+.first{
+    background-color: bisque;
+}
+.second{
+    margin: 100px;
+    margin-left: 300px;
+    padding: 100px;
+    width: 400px;
+}
+.abc{
+    border: 0px;
+    background-color: hsl(10, 79%, 65%);
+    border-radius: 10px;
+    color: white;
+    height: 50px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.logo{
+    width: 500px;
+    height: 30px;
+    padding-top: 0px;
+}
+.btc{
+    background-color: white;
+    height:350px;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+.ohh{
+    font-size: 20px;
+    display: flex;
+    
+    
+}
+.aa{
+    font-size: 10px;
+}
+.busy{ 
+    display: contents;
+}
+.ten{
+    font-size: 20px;
+    padding-left: 0px;
+    padding-top: 30px;
+}
+.mon{
+    height: 60px;
+    width: 40px;
+    background-color: hsl(10, 79%, 65%);
+    border: 0px;
+    border-radius: 5px;
+    padding-right: 30px;
+    
+    
+}
+.two{
+    height: 80px;
+    width: 40px;
+    background-color: hsl(10, 79%, 65%);
+    border: 0px;
+    border-radius: 5px;
+}
+.three{
+    height: 140px;
+    width: 40px;
+    background-color: hsl(186, 34%, 60%);
+    border: 0px;
+    border-radius: 5px;
+}
+.four{
+    height: 70px;
+    width: 40px;
+    background-color: hsl(10, 79%, 65%);
+    border: 0px;
+    border-radius: 5px;
+}
+.five{
+    height: 60px;
+    width: 40px;
+    background-color: hsl(10, 79%, 65%);
+    border: 0px;
+    border-radius: 5px;
+}
+.six{
+    height: 100px;
+    width: 40px;
+    background-color: hsl(10, 79%, 65%);
+    border: 0px;
+    border-radius: 5px;
+}
+.sev{
+    height: 70px;
+    width: 40px;
+    background-color: hsl(10, 79%, 65%);
+    border: 0px;
+    border-radius: 5px;
+    
+}
+.tww{
+    padding-left: 10px;
+}
+.tww1{
+    padding-left: 15px;
+}
+.tww2{
+    padding-left: 15px;
+}
+.tww3{
+    padding-left: 17px;
+}
+.tww4{
+    padding-left: 25px;
+}
+.tww5{
+    padding-left: 20px;
+}
+.dd{
+    text-align: right;
+    padding-left: 140px;
+    
+    
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+.af{
+    padding-left: 0px;
+    display: flex;
+    flex-direction: row;
+}
+.hun{
+    font-size: 30px;
+}
+.hea{
+    width: 50px;
+    height: 40px;
+    border-radius: 80px;
+    background-color: transparent;
+    border: solid white;
+    padding-right: 10px;
+    display: flex;
+    
+}
+.stylesheet{
+    display: flex;
+    padding-left: 100px;
+    padding-top: 0px;
+    flex-direction: row;
+
+    
+}
+.bea{
+    width: 50px;
+    height: 40px;
+    border-radius: 80px;
+    background-color: black;
+    display: flex;
+    padding-left: 0px;
+    margin: 0px;
+}
+.pray{
+    display: flex;
+    padding-top: 0px;
+    flex-direction: row;
+  
+}
